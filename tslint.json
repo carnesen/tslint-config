@@ -1,7 +1,6 @@
 {
   "rulesDirectory": [
-    "tslint-plugin-prettier",
-    "dtslint/bin/rules/expectRule.js"
+    "tslint-plugin-prettier"
   ],
   "extends": [
     "tslint-config-airbnb",

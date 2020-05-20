@@ -9,7 +9,6 @@
     "postversion": "npm publish"
   },
   "dependencies": {
-    "dtslint": "3.6.3",
     "prettier": "2.0.5",
     "tslint-config-airbnb": "5.11.2",
     "tslint-config-prettier": "1.18.0",
