@@ -1,5 +1,4 @@
-# @carnesen/tslint-config [![Build Status](https://travis-ci.com/carnesen/tslint-config.svg?branch=master)](https://travis-ci.com/carnesen/tslint-config)
-
+# @carnesen/tslint-config [![Build Status](https://github.com/carnesen/tslint-config/workflows/test/badge.svg)](https://github.com/carnesen/tslint-config/actions?query=workflow%3Atest+branch%3Amaster)
 TSLint configurations for `@carnesen` projects
 
 ## Install

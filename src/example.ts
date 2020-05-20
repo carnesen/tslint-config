@@ -7,9 +7,3 @@ class Foo {
     this.bar = 'bar';
   }
 }
-
-// $ExpectType "foo"
-'foo';
-
-// $ExpectType string[]
-['foo', 'bar', 'baz'];
